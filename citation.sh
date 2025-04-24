@@ -14,3 +14,4 @@ echo ""
 echo "✨ Citation du jour :"
 echo "${CITATIONS[$RANDOM_INDEX]}"
 Ajout du script de citations aléatoires 
+"Soyez vous-même, tous les autres sont déjà pris. – Oscar Wilde"
